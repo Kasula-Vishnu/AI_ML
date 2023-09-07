@@ -1,0 +1,2 @@
+1. git colone
+2. git status
